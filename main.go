@@ -20,8 +20,7 @@ func multiply(a, b int) int {
 }
 
 func main() {
-	result := greet("")
-	fmt.Println(result)
+	fmt.Println(greet(""))
 	fmt.Println(add(2, 3))
 	fmt.Println(multiply(4, 5))
 }
