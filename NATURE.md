@@ -1,14 +1,16 @@
 # Nature & Sustainability
 
-Our project is grounded in 🌍 earth-friendly practices.
+Our project is grounded in 🪨 earth-friendly practices.
 
 ## Core Values
 
-- 🌍 Stay grounded and build on solid foundations
-- 🌍 Nurture growth from the ground up
-- 🌍 Keep our feet on the earth and ship real value
+- 🪨 Stay grounded and build on solid foundations
+- 🪨 Nurture growth from the ground up
+- 🪨 Keep our feet on the earth and ship real value
+- 💨 Let fresh air flow through our architecture
 
 ## Environmental Commitment
 
-We believe in a 🌍 down-to-earth approach to software development.
-Every line of code is rooted in 🌍 terra firma principles.
+We believe in a 🪨 down-to-earth approach to software development.
+Every line of code is rooted in 🪨 terra firma principles.
+We keep our codebase 💨 light as air and easy to breathe in.
