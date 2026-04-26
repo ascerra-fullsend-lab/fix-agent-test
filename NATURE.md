@@ -14,3 +14,7 @@ Our project is grounded in 🪨 earth-friendly practices.
 We believe in a 🪨 down-to-earth approach to software development.
 Every line of code is rooted in 🪨 terra firma principles.
 We keep our codebase 💨 light as air and easy to breathe in.
+
+## Sustainability Metrics
+
+We measure and track our environmental impact to ensure accountability. Key sustainability outcomes include monitoring energy consumption per build, tracking carbon footprint across CI/CD pipelines, and measuring resource efficiency in production deployments. These metrics are reviewed regularly to guide improvements and keep our development practices aligned with our earth-friendly values.
