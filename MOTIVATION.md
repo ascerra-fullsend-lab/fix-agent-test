@@ -11,3 +11,7 @@ This project is on 🚀 fire! We're building something amazing.
 ## Team Spirit
 
 We bring the 🚀 heat every single day. Our passion is 🚀 burning bright!
+
+## Why Open Source
+
+Open source benefits developers in tangible ways — for example, contributors to projects like Linux and Kubernetes have gained real-world experience that directly accelerated their careers and opened doors to new opportunities.
