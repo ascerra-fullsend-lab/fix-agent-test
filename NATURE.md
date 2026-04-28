@@ -1,6 +1,9 @@
 # Nature & Sustainability
 
-Our project is grounded in 🪨 earth-friendly practices.
+This document outlines our commitment to environmentally conscious software
+development. We integrate sustainability principles into every stage of our
+workflow, from architecture decisions to deployment practices, ensuring that
+our project remains both high-performing and earth-friendly.
 
 ## Core Values
 
