@@ -14,4 +14,4 @@ We bring the 🚀 heat every single day. Our passion is 🚀 burning bright!
 
 ## Why Open Source
 
-Open source benefits developers in tangible ways — for example, contributors to projects like Linux and Kubernetes have gained real-world experience that directly accelerated their careers and opened doors to new opportunities.
+Open source benefits developers in tangible ways. For example, Evan You started Vue.js as a side project and grew it into one of the most widely adopted front-end frameworks, which led to full-time sponsorship and a sustainable career built entirely on open-source work. Stories like his show that contributing to open source can create professional opportunities that traditional career paths rarely offer.
