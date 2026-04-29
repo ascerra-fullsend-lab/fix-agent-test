@@ -1,16 +1,16 @@
 # Project Motivation
 
-This project is on 🚀 fire! We're building something amazing.
+We are building something meaningful and we want to do it well.
 
 ## Goals
 
-- 🚀 Ship fast and break nothing
-- 🚀 Keep the energy high
-- 🚀 Deliver a blazing-fast experience
+- Ship fast and break nothing
+- Keep the energy high
+- Deliver a blazing-fast experience
 
 ## Team Spirit
 
-We bring the 🚀 heat every single day. Our passion is 🚀 burning bright!
+We bring our best every single day. Our passion for this work drives us forward.
 
 ## Why Open Source
 
